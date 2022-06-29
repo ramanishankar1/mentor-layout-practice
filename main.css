@@ -1,0 +1,233 @@
+*{
+box-sizing: border-box;
+}
+
+.container{
+    width: 1350px;
+    margin: auto;
+    
+}
+
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.logo{
+    color: green;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.nav-area{
+    margin: right;
+}
+
+.nav-bar{
+    display: flex;
+    align-items: center;
+}
+
+.nav-item{
+    display: inline;
+    padding-right: 40px;
+    margin-left: 30px;
+    font-size: 20px;
+    color: black;
+    
+}
+a{
+ text-decoration: none;   
+}
+.banner{
+    height: 400px;
+    border: solid 1px black;
+    margin: 10px;
+
+}
+
+
+.banner-heading{
+    font-size: 50px;
+    padding: 0px;
+    color: black;
+   
+}
+.banner-text{
+    font-size:23px;
+    padding:0px;
+    color:black;    
+}
+
+
+.get-started-1{
+    border-color: white;
+    border-radius: solid ;
+    padding: 0px;
+}
+.about{
+    background-color:green;
+    width: 1315px;
+    height: 200px;
+    border: solid 1px red;
+    margin: auto;
+}
+.about-heading{
+    font-size: 50px;
+    padding: 0px;
+    color: white;
+    text-align: center;
+    
+
+                         
+}
+.about-text{
+    font-size: 20px;
+    color: white;
+    
+}
+
+.about-wrapper{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.about-text-area{
+    font-size: 15px;
+    color:black;
+    font-style: italic;
+    height: 500px;
+    border:solid 1px red;
+    margin: 10px;
+}
+.image-area{
+    height: 400px;
+    width: 900px;
+    padding: 50px;
+    height: 500px;
+    border:solid 1px orchid;
+    margin: 10px;
+} 
+.statistics-item{
+    display: flex;
+    justify-content: space-around;
+    color: green;
+    width: 1350px;
+    font-size:60px;
+}
+
+.courses{
+    background-color: green;
+    border: solid 1px red;
+    
+   
+}
+.courses-heading{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.courses-text{
+    font-size: 20px;
+    color: white;
+}
+.course-image-wrapper{    
+    display: flex;
+    justify-content: space-between;
+    }
+
+.course-image{
+    height:400px;
+    width:400px;
+    border: solid 1px green;
+    margin: 10px;
+
+}
+
+.trainer{
+    background-color: green;
+    border:solid 1px red;
+}
+.trainer-heading{
+    font-size: 52px;
+    text-align: center;
+    color: white;
+}
+
+.trainer-text{
+    font-size: 20px;
+    color: white;
+}
+.trainer-image-wrapper{ 
+     display: flex;
+    justify-content: space-between;
+}
+
+.trainer-image{
+    height:400px;
+    width:400px;
+    border: solid 1px green;
+    margin: 10px;
+
+}
+.pricing{
+    background-color: green;
+}
+
+.pricing-heading{
+    font-size: xx-large;
+    color: white;
+    text-align: center;
+
+}
+
+.pricing-text{
+    font-size: 20px;
+    color: white;
+}
+
+.pricing-image-wrapper{ 
+    display: flex;
+   justify-content: space-between;
+}
+
+.pricing-image{
+    height:400px;
+    width:400px;
+    border: solid 1px green;
+    margin: 10px;
+    text-align: black;
+
+}
+.free{
+    font-size: xx-large
+    align-items: center;
+}
+
+.contact-us{
+    background-color: green;
+    border: solid 1px red;
+}
+.contact-us-heading{
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+.contact-us-text{
+    color: white;
+    font-size: 20px;
+}
+.contact-us-image{
+    height:400px;
+    width:1323px;
+    border: solid 1px green;
+    margin: 10px;
+    text-align: black;
+ 
+
+}
+
+
+
+
+   
